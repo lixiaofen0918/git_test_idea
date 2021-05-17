@@ -13,6 +13,6 @@ public class DemoTest1 {
         System.out.println("-------------------");
         System.out.println("无网络科技");
         
-        System.out.prinyln("hahahaa");
+        System.out.println("hahahaa");
     }
 }
